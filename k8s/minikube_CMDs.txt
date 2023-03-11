@@ -1,0 +1,4 @@
+minikube kubectl get pods -A
+minikube ip
+minikube kubectl apply -f k8s
+minikube dashboard
